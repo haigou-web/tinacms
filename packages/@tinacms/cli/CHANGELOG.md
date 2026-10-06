@@ -1,5 +1,15 @@
 # tinacms-cli
 
+## 4.0.2
+
+### Patch Changes
+
+- [#7722](https://github.com/tinacms/tinacms/pull/7722) [`f3cf692`](https://github.com/tinacms/tinacms/commit/f3cf6922cfa178e0e301547df88d6565d8a305a8) Thanks [@wicksipedia](https://github.com/wicksipedia)! - The self-hosted init template now shows the `authCollection.admins` option. `tinacms init` now notes that the built-in self-hosted login is not production grade and points to dedicated auth providers.
+
+- Updated dependencies [[`f3cf692`](https://github.com/tinacms/tinacms/commit/f3cf6922cfa178e0e301547df88d6565d8a305a8)]:
+  - @tinacms/graphql@4.0.0
+  - @tinacms/search@1.2.26
+
 ## 4.0.1
 
 ### Patch Changes
